@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My Blood",
+  "base_artist": "Ellie Goulding",
+  "createdAt": "2025-12-03T14:36:43.412967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voodoo In My Blood",
+      "artist": "Massive Attack feat. Young Fathers",
+      "has_synced": true,
+      "path": "select/01_Voodoo_In_My_Blood_Massive_Attack_feat._Young_Fathers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In My Blood",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/02_In_My_Blood_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Blood",
+      "artist": "ZHU feat. AlunaGeorge",
+      "has_synced": false,
+      "path": "select/03_My_Blood_ZHU_feat._AlunaGeorge.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Blood (feat. Zhu)",
+      "artist": "AlunaGeorge",
+      "has_synced": false,
+      "path": "select/04_My_Blood_(feat._Zhu)_AlunaGeorge.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood Of My Blood",
+      "artist": "Tricky feat. Scriptonite",
+      "has_synced": false,
+      "path": "select/05_Blood_Of_My_Blood_Tricky_feat._Scriptonite.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still In My Blood",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/06_Still_In_My_Blood_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flesh Of My Flesh, Blood Of My Blood",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/07_Flesh_Of_My_Flesh,_Blood_Of_My_Blood_DMX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into My Blood",
+      "artist": "Carina Round",
+      "has_synced": true,
+      "path": "select/08_Into_My_Blood_Carina_Round.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Blood",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/09_My_Blood_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Blood",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/10_My_Blood_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In My Blood",
+      "artist": "Freddie Dredd feat. Genshin & Slim Guerilla",
+      "has_synced": false,
+      "path": "select/11_In_My_Blood_Freddie_Dredd_feat._Genshin_&_Slim_Guerilla.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dedication (I Give My Blood)",
+      "artist": "Doro",
+      "has_synced": false,
+      "path": "select/12_Dedication_(I_Give_My_Blood)_Doro.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In My Blood",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/13_In_My_Blood_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's in my Blood",
+      "artist": "Coil",
+      "has_synced": false,
+      "path": "select/14_It's_in_my_Blood_Coil.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In My Blood",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/15_In_My_Blood_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drink My Blood",
+      "artist": "Saturday Looks Good to Me",
+      "has_synced": false,
+      "path": "select/16_Drink_My_Blood_Saturday_Looks_Good_to_Me.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blood Of My Blood (feat. Scriptonite)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/17_Blood_Of_My_Blood_(feat._Scriptonite)_Tricky.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spill My Blood",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/18_Spill_My_Blood_Three_6_Mafia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Blood",
+      "artist": "Ellie Goulding",
+      "has_synced": false,
+      "path": "select/pl_01_My_Blood_Ellie_Goulding.txt"
+    }
+  ]
+}
